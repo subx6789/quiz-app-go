@@ -19,7 +19,7 @@ Welcome to the Quiz App built using Golang! This simple console-based quiz appli
 1. Clone the Repository
 
    ```bash
-    git clone https://github.com/your-username/quiz-app-go.git
+    git clone https://github.com/subx6789/quiz-app-go.git
     cd quiz-app-go
    ```
 
